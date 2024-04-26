@@ -1,0 +1,35 @@
+.balagam{
+    background-image: url(./image/balagam.jpg);
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 10px;
+}
+.gunturkarram{
+    background-image: url(./image/gunturkarram.jpg);
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 10px;
+}
+.guru{
+    background-image: url(./image/guru.jpeg);
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 10px;
+}
+.lovestory{
+    background-image: url(./image/lovestory.jpeg);
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 10px;
+}
+.pantam{
+    background-image: url(./image/pantam.jpg);
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 10px;
+}
